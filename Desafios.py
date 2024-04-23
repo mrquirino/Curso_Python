@@ -38,3 +38,13 @@ for caractere in s:
         print(f"{caractere} é um numero")
     else:
         print(f"{caractere} é um caractere especial ou espaço.")'''
+
+#=======================================================================
+
+# Atulaziando desafio das somas.
+
+'''num1 = int(input('Digite o primeiro numero: '))
+num2 = int(input('Digite o segundo numero: '))
+
+soma = num1 + num2
+print('A soma dos numeros é: {}!'.format(soma))'''
