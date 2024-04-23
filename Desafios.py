@@ -25,3 +25,16 @@ num2 = int(num2)
 
 soma = num1 + num2
 print("A soma dos dois numeros são", soma)'''
+
+#=======================================================================
+
+#Desafio 4, verificar o tipo de dado recebido, se é numero, letra ou caractere especial.
+'''s = input('Digite alguma coisa: ')
+
+for caractere in s:
+    if caractere.isalpha():
+        print(f"{caractere} é uma letra.")
+    elif caractere.isdigit():
+        print(f"{caractere} é um numero")
+    else:
+        print(f"{caractere} é um caractere especial ou espaço.")'''
